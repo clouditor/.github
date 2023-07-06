@@ -4,7 +4,7 @@ about: This issue describes a workflow through Clouditor
 title: ''
 labels: workflow
 assignees: ''
-projects: projects/1
+projects: 1
 ---
 
 **What do you want to achieve with this workflow? Please describe.**
